@@ -1,0 +1,9 @@
+x1,y1=10,4
+x2,y2=3,12
+dx=x1-x2
+dy=y1-y2
+distance=(dx**2+dy**2)**0.5
+print(dx)
+print(dy)
+print(dx**2+dy**2)
+print(distance)
